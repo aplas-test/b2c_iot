@@ -1,20 +1,24 @@
 {
-  "id": "b2c_iot",
-  "name": "B2C IoT",
-  "categoryId": "core",
-  "description": "Re-contextualized impactful protocol",
-  "investment_24m": "667",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "141",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "203",
-  "deployment_date": "9/11/16",
-  "end_of_maintenance": "14/7/17",
-  "department": "Product Management",
-  "status": "Decomissioned",
-  "end_of_life": "11/12/18",
-  "months_to_renew_support": "22",
-  "sme_email": "Ferdinand.MacKettrick@memento.net.au",
-  "investment_number": "323"
+  "applications": [
+    {
+      "id": "b2c_iot",
+      "name": "B2C IoT",
+      "categoryId": "core",
+      "description": "Re-contextualized impactful protocol",
+      "investment_24m": "667",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "141",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "203",
+      "deployment_date": "9/11/16",
+      "end_of_maintenance": "14/7/17",
+      "department": "Product Management",
+      "status": "Decomissioned",
+      "end_of_life": "11/12/18",
+      "months_to_renew_support": "22",
+      "sme_email": "Ferdinand.MacKettrick@memento.net.au",
+      "investment_number": "323"
+    }
+  ]
 }
