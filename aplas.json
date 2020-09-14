@@ -9,24 +9,19 @@
       "categoryId": "core",
       "applicationSize": "Small",
       "status": "Standard",
-      "condition": [
-        { "label": "fy20q1", "value": "Good" },
-        { "label": "fy20q2", "value": "Average" },
-        { "label": "fy20q3", "value": "Good" }
-      ],
-      "months_to_renew_support": 22,
-      "hostedtype": "OnPremise1",
-      "support_cost": "203",
-      "type": "InHouseDev",
-      "deployment_date": "9/11/16",
-      "licensing_cost": "141",
-      "end_of_life": "11/12/18",
-      "rating": "good",
-      "investment_24m": "667",
-      "investment_number": 323,
-      "sme_email": "Ferdinand.MacKettrick@memento.net.au",
+      "status_color": "#FF0000",
       "department": "Product Management",
+      "investment_number": 323,
+      "licensing_cost": "141",
+      "sme_email": "Ferdinand.MacKettrick@memento.net.au",
+      "hostedtype": "OnPremise",
       "end_of_maintenance": "14/7/17",
+      "investment_24m": "667",
+      "months_to_renew_support": 22,
+      "deployment_date": "9/11/16",
+      "end_of_life": "11/12/18",
+      "type": "InHouseDev",
+      "support_cost": "203",
       "integrations": [
         {
           "id": "int-185",
@@ -37,15 +32,16 @@
           "targetApplicationId": "tiger_web",
           "categoryId": "email",
           "status": "Standard",
-          "pattern": "Aggregator",
-          "last_deployment_date": "29/6/15",
-          "golive_date": "3/9/14",
-          "datacentre": "Dandenong",
+          "status_color": "#00FF00",
+          "department": "App Control",
+          "sme_email": "amacvanamy5@memento.net.au",
           "sme_name": "Andie MacVanamy",
           "complexity": "High",
-          "department": "App Control",
           "logical_server": "BATCH",
-          "sme_email": "amacvanamy5@memento.net.au"
+          "golive_date": "3/9/14",
+          "datacentre": "Dandenong",
+          "last_deployment_date": "29/6/15",
+          "pattern": "Aggregator"
         }
       ]
     }
